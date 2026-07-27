@@ -1,0 +1,1 @@
+print("Finance Tracker API started")
